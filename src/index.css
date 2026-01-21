@@ -1,5 +1,5 @@
 body {
-    background:linear-gradient(95deg, purple, darkblue);
+    background:linear-gradient(100deg, purple, darkblue);
     font-family: 'Roboto', sans-serif;
 }
 
@@ -15,8 +15,17 @@ body {
 
 .search {
     padding: 1.8vh;
-    width: 350px;
+    width: 320px;
     margin-top: 5vh;
     border-radius: 5px;
+}
+
+.weathers_area {
+    margin-top: 9vh;
+    margin-right: 4vh;
+}
+
+.img {
+    margin-left: 5vh;
 }
 

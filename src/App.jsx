@@ -15,10 +15,10 @@ function App() {
       </div>
 
       <div className="weathers_area">
-        <img src="../icons/SVG.svg" alt="" />
-        <img src="../icons/SVG (1).svg" alt="" />
-        <img src="../icons/SVG (2).svg" alt="" />
-        <img src="../icons/SVG (3).svg" alt="" />
+        <img className='img im1' src="../icons/SVG.svg" alt="" />
+        <img className='img im2'  src="../icons/SVG (1).svg" alt="" />
+        <img className='img im3'  src="../icons/SVG (2).svg" alt="" />
+        <img className='img im4'  src="../icons/SVG (3).svg" alt="" />
       </div>
     </div>
   )
