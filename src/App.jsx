@@ -10,9 +10,11 @@ function App() {
         <h1>Weather App</h1>
       </div>
 
-      <div className="input_area">
-        <input className='search' type="search" />
-      </div>
+      <select  className="option_area">
+         <option value="1"></option>
+         <option value=""></option>
+         <option value=""></option>
+      </select>
 
       <div className="weathers_area">
         <img className='img im1' src="../icons/SVG.svg" alt="" />

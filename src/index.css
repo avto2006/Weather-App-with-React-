@@ -20,6 +20,14 @@ body {
     border-radius: 5px;
 }
 
+.option_area {
+    width: 380px;
+    justify-content: center;
+    margin:  0 auto;
+     margin-top: 4vh;
+    padding: 1vh;
+}
+
 .weathers_area {
     margin-top: 9vh;
     margin-right: 4vh;
