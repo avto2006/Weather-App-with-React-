@@ -1,3 +1,22 @@
 body {
-    background:linear-gradient(55deg, purple, darkblue)
+    background:linear-gradient(95deg, purple, darkblue);
+    font-family: 'Roboto', sans-serif;
 }
+
+.full {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 25vh;
+    color: white;
+    font-size: 21px;
+}
+
+.search {
+    padding: 1.8vh;
+    width: 350px;
+    margin-top: 5vh;
+    border-radius: 5px;
+}
+
