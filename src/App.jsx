@@ -13,6 +13,13 @@ function App() {
       <div className="input_area">
         <input className='search' type="search" />
       </div>
+
+      <div className="weathers_area">
+        <img src="../icons/SVG.svg" alt="" />
+        <img src="../icons/SVG (1).svg" alt="" />
+        <img src="../icons/SVG (2).svg" alt="" />
+        <img src="../icons/SVG (3).svg" alt="" />
+      </div>
     </div>
   )
 }
