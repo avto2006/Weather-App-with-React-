@@ -26,6 +26,7 @@ body {
     margin:  0 auto;
      margin-top: 4vh;
     padding: 1vh;
+    border-radius: 5px;
 }
 
 .weathers_area {

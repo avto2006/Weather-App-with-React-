@@ -11,9 +11,9 @@ function App() {
       </div>
 
       <select  className="option_area">
-         <option value="1"></option>
-         <option value=""></option>
-         <option value=""></option>
+         <option value="Tbilisi">Tbilisi</option>
+         <option value="Kutaisi">Kutaisi</option>
+         <option value="Senaki">Senaki</option>
       </select>
 
       <div className="weathers_area">
